@@ -15,6 +15,17 @@ package mao.t1;
 
 public interface StudentIterator
 {
+    /**
+     * Has next boolean.
+     *
+     * @return the boolean
+     */
     boolean hasNext();
+
+    /**
+     * Next student.
+     *
+     * @return the student
+     */
     Student next();
 }

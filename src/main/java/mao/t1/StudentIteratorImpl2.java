@@ -12,7 +12,7 @@ import java.util.List;
  * Date(创建日期)： 2022/8/22
  * Time(创建时间)： 20:00
  * Version(版本): 1.0
- * Description(描述)： 无
+ * Description(描述)： 降序
  */
 
 public class StudentIteratorImpl2 implements StudentIterator
